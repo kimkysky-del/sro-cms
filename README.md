@@ -48,6 +48,8 @@ git clone https://github.com/kimkysky-del/sro-cms.git
 2. Install Laravel dependencies
 ```sh
 composer install
+cd sro-cms
+composer install
 ```
 3. Rename `.env.example` to `.env` and fill it with Silkroad database info
    ```ini
