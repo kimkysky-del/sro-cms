@@ -55,7 +55,8 @@ composer install
 ```sh
 cp .env.example .env
 ```
-    ```ini
+
+  ```ini
     # Silkroad Server Files Type, iSRO, vSRO
     SRO_VERSION=iSRO
     
