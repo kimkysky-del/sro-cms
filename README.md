@@ -42,7 +42,7 @@ Whats new?-:
 _Lets begin:
 1. Clone the repo for SRO-CMS
 ```sh
-git clone https://github.com/m1xawy/sro-cms.git
+git clone https://github.com/kimkysky-del/sro-cms.git
 ```
 
 2. Install Laravel dependencies
