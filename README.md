@@ -71,7 +71,7 @@ cp .env.example .env
     DB_USERNAME=sa
     DB_PASSWORD=123456
    ```
-5. Create new database `SRO_CMS` and run Laravel commands for migrate website tables
+4. Create new database `SRO_CMS` and run Laravel commands for migrate website tables
 ```sh
 php artisan migrate
 php artisan db:seed
