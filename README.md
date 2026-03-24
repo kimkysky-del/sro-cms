@@ -52,7 +52,10 @@ cd sro-cms
 composer install
 ```
 3. Rename `.env.example` to `.env` and fill it with Silkroad database info
-   ```ini
+```sh
+cp .env.example .env
+```
+    ```ini
     # Silkroad Server Files Type, iSRO, vSRO
     SRO_VERSION=iSRO
     
@@ -68,7 +71,7 @@ composer install
     DB_USERNAME=sa
     DB_PASSWORD=123456
    ```
-4. Create new database `SRO_CMS` and run Laravel commands for migrate website tables
+5. Create new database `SRO_CMS` and run Laravel commands for migrate website tables
 ```sh
 php artisan migrate
 php artisan db:seed
