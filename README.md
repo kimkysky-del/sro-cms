@@ -42,7 +42,7 @@ Whats new?-:
 _Lets begin:
 1. Clone the repo for SRO-CMS
 ```sh
-git clone https://github.com/kimkysky-del/sro-cms.git
+git clone https://github.com/m1xawy/sro-cms.git
 ```
 
 2. Install Laravel dependencies
@@ -102,7 +102,7 @@ php artisan optimize:clear
 ## Contributing
 
 Message me first.
--Discord **[MuGanzi](https://discord.gg/c9VqY7FZ)**
+-Discord **[m1xawy](https://discord.com/users/462695018751328268)**
 
 ## License
 
