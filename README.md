@@ -102,7 +102,7 @@ php artisan optimize:clear
 ## Contributing
 
 Message me first.
--Discord **[m1xawy](https://discord.com/users/462695018751328268)**
+-Discord **[MuGanzi]((https://discord.gg/c9VqY7FZ))**
 
 ## License
 
